@@ -2,9 +2,7 @@ import "./Food.css";
 const Food = ({ url, title, description }) => {
   return (
     <section className="food_container">
-      <h3>
-        <mark>{title}</mark>
-      </h3>
+      <h3>{title}</h3>
       <img src={url}></img>
       <p>{description}</p>
     </section>

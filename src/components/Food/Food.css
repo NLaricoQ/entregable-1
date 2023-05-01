@@ -26,7 +26,7 @@
   text-align: center;
   margin-top: 30px;
   font-size: 20px;
-  color: wheat;
+  color: #25063f;
 }
 .food_container img {
   width: 150px;
@@ -47,4 +47,51 @@
   justify-self: center;
   margin: 20px;
   margin-right: 40px;
+}
+
+@media screen and (max-width: 480px) {
+  .food_container {
+    max-width: 95%;
+    /* height: 250px; */
+    display: grid;
+    box-sizing: border-box;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: 25% 75%;
+  }
+  .food_container img {
+    width: 90%;
+    height: 80%;
+  }
+  .food_container p {
+    max-width: 90%;
+    max-height: 95%;
+    font-size: 15px;
+    overflow: auto;
+    word-wrap: break-word;
+    text-align: center;
+    margin-right: 20px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .food_container {
+    max-width: 95%;
+    /* height: 250px; */
+    display: grid;
+    box-sizing: border-box;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: 25% 75%;
+  }
+  .food_container img {
+    width: 90%;
+    height: 80%;
+  }
+  .food_container p {
+    max-width: 90%;
+    max-height: 95%;
+    font-size: 15px;
+    overflow: auto;
+    word-wrap: break-word;
+    text-align: center;
+    margin-right: 20px;
+  }
 }
