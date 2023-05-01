@@ -1,0 +1,62 @@
+[
+    {
+      "title": "Ceviche",
+      "description": "Este delicioso plato marino está principalmente hecho en base a trozos de pescado, cebolla, ají, jugo de limón y sal.",
+      "url": "https://imag.bonviveur.com/ceviche-peruano-de-pescado.jpg"
+    },
+    {
+      "title": "Pollo a la Brasa",
+      "description": "El pollo macerado es cocinado a las brasas en un horno especial, haciendo que este gire sobre su propio eje. Acompañado por una buena porción de papas crocantes y ensalada.",
+      "url": "https://peru21.pe/resizer/dakd3FqV5ATtR7QjjCFG4rI0Y1Y=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UM7KUSCNXFED7IRS6DKSZL4CME.jpg"
+    },
+    {
+      "title": "Causa Rellena",
+      "description": "Preparada en base a papa amarilla y ají verde, se le puede agregar distintos ingredientes como choclo peruano, mayonesa, palta, huevo duro, aceitunas y lechuga.",
+      "url": "https://acomer.pe/wp-content/uploads/2018/02/causalimeniaweb.jpg"
+    },
+    {
+      "title": "Papa a la Huancaína",
+      "description": "Se vierte leche, galletas de soda, queso blanco y ají en una licuadora. Paso siguiente se vierte la crema huancaína en papas amarillas, decorando finalmente con lechuga y una aceituna.",
+      "url": "https://perudelights.com/wp-content/uploads/2013/07/papa-a-la-huancaina-lista-1024x768.jpg"
+    },
+    {
+      "title": "Ají de Gallina",
+      "description": "Este manjar típico de la gastronomía peruana consta de una crema espesa hecha con gallina desmenuzada, pan, ají verde, leche y caldo. Servida con arroz, papas peruanas y decorada con aceitunas, huevo duro y lechuga.",
+      "url": "https://www.recetas-argentinas.com/base/stock/Recipe/61-image/61-image_web.jpg"
+    },
+    {
+      "title": "Anticuchos",
+      "description": "Hechos en base a corazón de res, aunque no suene muy apetitoso, ¡es realmente delicioso!",
+      "url": "https://images.hola.com/imagenes/cocina/recetas/2016101989128/anticuchos-con-aji-de-huacatay/0-826-642/anticucho-aji-huacatay-m.jpg"
+    },
+    {
+      "title": "Lomo Saltado",
+      "description": "Hecho en base a trozos de carne, cebolla, tomate y papas fritas.",
+      "url": "https://assets.afcdn.com/recipe/20210416/119490_w1024h768c1cx363cy240.webp"
+    },
+    {
+      "title": "Pachamanca",
+      "description": "Su forma de preparar es bastante particular, todos sus ingredientes entran en cocción en piedras precalentadas colocadas en la tierra.",
+      "url": "https://jameaperu.com/wp-content/uploads/2020/09/pachamanca-a-la-tierra_700x465.jpg"
+    },
+    {
+      "title": "Cuy Chactado",
+      "description": "El Cuy Chactado es frito en abundante aceite, normalmente en una cocina hecha de piedras. Acompañado de papas sancochadas y ensalada,",
+      "url": "https://www.comedera.com/wp-content/uploads/2022/07/Cuy-asado-shutterstock_395387146.jpg"
+    },
+    {
+      "title": "Juane peruano",
+      "description": "A pesar de que existen varios tipos de Juane, los ingredientes del original son yuca, arroz y gallina. Estos son envueltos en hojas de plátano o hojas de Bijao.",
+      "url": "https://www.rcrperu.com/wp-content/uploads/2021/06/juane.jpg"
+    },
+    {
+      "title": "Tacacho con Cecina",
+      "description": "El tacacho es una masa hecha en base a plátano bellaco, mientras que la cecina y chorizo es carne de cerdo. Se prepara usualmente en parrilla.",
+      "url": "https://comidasperuanas.pe/wp-content/uploads/2022/04/Tacacho-con-Cecina-y-Chorizo-500x500.jpg"
+    },
+    {
+      "title": "Triple Arequipeño",
+      "description": "Pastel de papa acompañado de Chicharrón de Costilla de Cerdo, zarza de pata de cordero y nuestro rocoto relleno componen el TRIPLE AREQUIPEÑO.",
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/a9/4c/c1/triple-un-legado-de-placer.jpg"
+    }
+] 
