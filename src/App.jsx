@@ -35,7 +35,7 @@ function App() {
   const changeBackground = () => {
     let newBackground = getRandomBackground();
     while (newBackground === background) {
-      newBackground === getRandomBackground();
+      newBackground = getRandomBackground();
     }
     setBackground(newBackground);
   };
@@ -43,7 +43,7 @@ function App() {
   const changeFood = () => {
     let newFood = getRandomFoods();
     while (newFood.title === food.title) {
-      newFood === getRandomFoods();
+      newFood = getRandomFoods();
     }
     setFood(newFood);
   };
